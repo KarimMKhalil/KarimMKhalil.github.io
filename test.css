@@ -1,0 +1,194 @@
+body {
+    background-color: black;
+    color: red;
+}
+.head {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: black;
+  justify-content: space-between; 
+  display: flex;
+  z-index: 1000;
+  text-transform: capitalize;
+  position: fixed;
+  padding: 10px 20px;
+  width: 100%;
+  height: auto;
+}
+.plogo {
+  width: 10%;
+  height: 10%;
+  position: relative;
+  bottom: 35px;
+}
+.logo {
+  text-decoration: none;
+  color: #ff0000;
+  text-transform: uppercase;
+  font-size: 1.8em;
+  font-weight: 570px;
+  padding: 4px 0;
+}
+.navigation a {
+  text-decoration: none;
+  padding-top: 50px;
+  font-size: 1.6em;
+  font-weight: 550px;
+  padding-right: 40px;
+  color: red; 
+}
+section {
+  width:100%;
+  height: 15%;
+  z-index: 500;
+  padding: 100px 20px ;
+}
+.spe {
+  color: red;
+  font-size: 1.5em;
+  font-weight: 400px;
+}
+.spee {
+  padding: 0px 98px 0px 0px;
+  font-size: 1.7em;
+  font-weight: 550px;
+  color: white;
+}
+.photo1 {
+  width: 35%;
+  height: auto;
+  position: relative;
+  left: 650px;
+  bottom: 130px 
+}
+.cap {
+  position: relative;
+  bottom: 350px;
+  font-size: 1.6em;
+  font-weight: 500px;
+}
+.btm {
+  background: darkslategray;
+  border-radius: 9px; 
+  text-decoration: none;
+  color: red;
+  padding: 10px;
+  position: relative;
+  bottom: 320px;
+  left: 20px;
+}
+h2 {
+  color: red;
+  font-size: 1.9em;
+  font-weight: 800px;
+  text-align: center;
+  margin-top: 50px; 
+}
+.title {
+  font-size: 1.6em;
+  font-weight: 560px;
+  padding: 30px 20px;
+  position: relative;
+  top: 40px;
+}
+.text {
+  color: white;
+  text-align: initial;
+  padding: 10px 20px;
+}
+body {
+    background-color: black;
+    color: red;
+}
+.head {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: black;
+  justify-content: space-between; 
+  display: flex;
+  z-index: 1000;
+  text-transform: capitalize;
+  position: fixed;
+  padding: 10px 20px;
+  width: 100%;
+  height: auto;
+}
+.plogo {
+  width: 10%;
+  height: 10%;
+  position: relative;
+  bottom: 35px;
+}
+.logo {
+  text-decoration: none;
+  color: #ff0000;
+  text-transform: uppercase;
+  font-size: 1.8em;
+  font-weight: 570px;
+  padding: 4px 0;
+}
+.navigation a {
+  text-decoration: none;
+  padding-top: 50px;
+  font-size: 1.6em;
+  font-weight: 550px;
+  padding-right: 40px;
+  color: red; 
+}
+section {
+  width:100%;
+  height: 15%;
+  z-index: 500;
+  padding: 100px 20px ;
+}
+.spe {
+  color: red;
+  font-size: 1.5em;
+  font-weight: 400px;
+}
+.spee {
+  padding: 0px 98px 0px 0px;
+  font-size: 1.7em;
+  font-weight: 550px;
+  color: white;
+}
+.photo1 {
+  width: 35%;
+  height: auto;
+  position: relative;
+  left: 650px;
+  bottom: 130px 
+}
+.cap {
+  position: relative;
+  bottom: 350px;
+  font-size: 1.6em;
+  font-weight: 500px;
+}
+.btm {
+  background: darkslategray;
+  border-radius: 9px; 
+  text-decoration: none;
+  color: red;
+  padding: 10px;
+  position: relative;
+  bottom: 320px;
+  left: 20px;
+}
+h2 {
+  color: red;
+  font-size: 1.9em;
+  font-weight: 800px;
+  text-align: center;
+  margin-top: 50px; 
+}
+.title {
+  font-size: 1.6em;
+  font-weight: 560px;
+  padding: 30px 20px;
+  position: relative;
+  top: 40px;
+}
+.text {
+  color: white;
+  text-align: initial;
+  padding: 10px 20px;
+}
